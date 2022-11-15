@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @telnex Graff
-- 👀 I’m interested in Python, VB .NET.
+- 👀 I’m interested in Python
