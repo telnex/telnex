@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @telnex Graff
-- 👀 I’m interested in Python
+- 👀 I’m interested in Flutter/Dart, Python, C++/Arduino
